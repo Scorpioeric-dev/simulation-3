@@ -1,0 +1,16 @@
+CREATE TABLE joe (
+id SERIAL PRIMARY KEY,
+name VARCHAR(500),
+password VARCHAR(500),
+city VARCHAR(500),
+state VARCHAR(500)
+
+);
+
+
+SELECT * FROM joe;
+
+
+
+
+
